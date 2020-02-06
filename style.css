@@ -1,0 +1,11 @@
+body{
+    background-color: whitesmoke;
+}
+
+.state{
+    fill: #C5B7C5;
+}
+
+.state:hover{
+    fill: purple;
+}
